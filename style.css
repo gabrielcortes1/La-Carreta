@@ -1,0 +1,36 @@
+*{padding:0;margin:0;}
+h1 {color:black;}
+a {color:black;
+ margin-left:60px;
+  margin-right:50px;
+  font-size:25px;
+  text-decoration:none;
+}
+#navbar {
+  background-color:yellow;
+  width:160%;
+  height:50px;
+  border-style: dotted;
+  box-shadow: 2px 4px 10px 4px yellow;
+}
+body {
+  background-color:rgb(255, 51, 0);
+}
+h1 {font-family: 'Whisper', cursive;
+  font-size:60px;
+  letter-spacing:5px;
+}
+
+p {
+  text-indent:50px;
+  font-size:larger;
+  line-height:1.5;
+}
+
+h3 {
+  font-size:30px;
+}
+
+h4 {
+text-decoration: underline;           
+}
